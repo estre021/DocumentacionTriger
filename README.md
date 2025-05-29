@@ -13,7 +13,7 @@ Este documento explora en detalle el concepto de **Triggers** (disparadores) en 
 * [Tipos de Trigger en SQL Server](#5-tipos-de-trigger-en-sql-server)
 * [¿Cuándo ejecuta su acción un Trigger?](#6-cuándo-ejecuta-su-acción-un-trigger)
 * [Ejemplo de un Trigger](#7-ejemplo-de-un-trigger)
-* [Trigger Marketing](#8-trigger-marketing)
+* [Trigger Marketing (concepto externo)](#8-trigger-marketing)
 * [¿Cómo hacer un Trigger?](#9-cómo-hacer-un-trigger)
 * [Características de un Trigger](#10-características-de-un-trigger)
 * [Desventajas de un Trigger](#11-desventajas-de-un-trigger)
